@@ -18,4 +18,13 @@ let userPhone; // datatype is undefined
 let temperatureCheck = null // dataType is NULL use when we call API and check temperature or score at any cause is not fatch or miss the value then show NULL 
 
 
-console.table([userName, userNumber, bigINT, isUserLogin, userPhone, temperatureCheck])
+console.table([userName, userNumber, bigINT, isUserLogin, userPhone, temperatureCheck,])
+
+console.table([typeof userName, typeof userNumber, typeof bigINT, typeof isUserLogin, typeof userPhone, typeof temperatureCheck,])
+
+
+// non primitive data types
+
+// Object
+
+// array
