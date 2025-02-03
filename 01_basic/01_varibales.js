@@ -2,11 +2,11 @@ const accountId = 123456
 let userName = "Yasir"
 var email = "yasir@hotamil.com"
 
-cityName = "karachi" // its work but good practices
+cityName = "karachi" // its work but not good practices
 
 userName = 'ok' 
 
-let country // declare varible but assign value is always undefined
+let country // declare varible but not assign value is always undefined
 
 /* 
 prefer not to use var
