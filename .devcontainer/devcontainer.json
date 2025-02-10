@@ -24,7 +24,11 @@
 			],
 			"settings": {
 				"editor.fontSize": 12,
-				"terminal.integrated.fontSize": 18,
+				"editor.fontFamily": "'DejaVu Sans Mono for Powerline'",
+
+				"terminal.integrated.fontSize": 15,
+				"terminal.integrated.fontFamily": "'Hack NF'",
+
 				"editor.wordWrap": "on"
 			}
 			
