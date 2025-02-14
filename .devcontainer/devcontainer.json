@@ -24,10 +24,10 @@
 			],
 			"settings": {
 				"editor.fontSize": 12,
-				"editor.fontFamily": "'DejaVu Sans Mono for Powerline'",
+			
 
 				"terminal.integrated.fontSize": 15,
-				"terminal.integrated.fontFamily": "'Hack NF'",
+			
 
 				"editor.wordWrap": "on"
 			}

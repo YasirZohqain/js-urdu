@@ -1,8 +1,12 @@
-##Project 1
+# Project 1
 
-#Background Color Change
+## Background Color Change
 
-```
+### Project Code
+
+[Live Project](https://dom-projects-play-area-javascript.stackblitz.io/1-colorChanger/index.html)
+
+```javascript
 const button = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
@@ -11,4 +15,5 @@ button.forEach((btn) => {
     body.style.backgroundColor = e.target.id;
   });
 });
+
 ```
