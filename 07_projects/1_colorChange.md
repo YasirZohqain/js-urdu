@@ -4,7 +4,7 @@
 
 ### Project Code
 
-[Live Project](https://dom-projects-play-area-javascript.stackblitz.io/1-colorChanger/index.html)
+##### [Live Project](https://dom-projects-play-area-javascript.stackblitz.io/1-colorChanger/index.html)
 
 ```javascript
 const button = document.querySelectorAll('.button');
@@ -15,5 +15,4 @@ button.forEach((btn) => {
     body.style.backgroundColor = e.target.id;
   });
 });
-
 ```

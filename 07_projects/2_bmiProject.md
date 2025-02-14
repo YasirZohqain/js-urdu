@@ -4,7 +4,7 @@
 
 ### Project Code
 
-[Live Project](https://dom-projects-play-area-javascript.stackblitz.io/2-BMICalculator/index.html)
+##### [Live Project](https://dom-projects-play-area-javascript.stackblitz.io/2-BMICalculator/index.html)
 
 ```javascript
 const form = document.querySelector('form');
@@ -32,5 +32,4 @@ form.addEventListener('submit', (e) => {
     results.textContent = `Please Enter Number not ${bmi}`;
   }
 });
-
 ```
